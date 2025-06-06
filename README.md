@@ -1,6 +1,6 @@
-Scribe is a prompt which instructs an LLM to improve rough notes that are
-provided to it, while also providing an exact copy of the rough notes that were
-provided to it.
+Scribe is a prompt which instructs an LLM to rewrite rough, disorganized notes
+that are provided to it, while also including an exact copy of those rough
+notes.
 
 I use this prompt for general note-taking. The copy of the rough notes is
 helpful as a reference in case the AI is suspected of hallucinating or
@@ -24,5 +24,6 @@ prompt as the system prompt, or at least part of the system prompt.
 ## Usage
 
 After following the installation instructions, send a message to the LLM with
-some rough notes you have taken. You don't need to explain what you're doing. It
-will already understand.
+some rough notes you have taken. You may feel compelled to explain yourself ("In
+this message, I'm going to send you...") but you don't need to do that, since
+the LLM will already know.
