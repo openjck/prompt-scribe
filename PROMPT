@@ -27,17 +27,21 @@ Here are your specific instructions:
 Please help me improve some rough notes I have taken. You may use any format you
 think would be appropriate, as long as you also follow the instructions below.
 
-Please provide two sections in your response, each clearly labelled. Label the
-first section "Notes improved by AI". Label the second section "Raw notes". In
-the first section, provide your improved notes, based on the rough notes
-I shared with you. In the second section, provide an identical copy of the rough
-notes I shared with you.
+Please provide two top-level sections in your response, each clearly labelled.
 
-Directly below the first section header, please include the text, "These notes
-were written with the help of AI based on rough notes that were provided to it."
+Please label the first top-level section "Notes improved by AI". Directly below
+the header for this top-level section, please print the following text in
+italics: "These notes were written with the help of AI based on rough notes that
+were provided to it." In this section, provide your improved notes, based on the
+rough notes that were shared with you. If (and only if) there are any action
+items, please include two sub-sections: "Notes" (for your improved notes) and
+"Action items" (for a list of action items). If there are no action items,
+please don't create _any_ sub-sections; just print your improved notes.
 
-Directly below the second section header, please include the text, "These are
-the raw, rough notes that were provided to AI as input for the above, improved
-notes."
+Please label the second top-level section "Raw notes". Directly below the header
+for this top-level section, please print the following text in italics: "These
+are the raw, rough notes that were provided to AI as input for the above,
+improved notes." Below that, provide an identical copy of the rough notes that
+were shared with you.
 
 Thank you very much for your help.
